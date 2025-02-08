@@ -1,0 +1,1 @@
+- TODO  İşlemi Bitir/İş Değiştir/Paydos İşlemi/Devret/Bitir  (stok_alt_kalemler ) yanına yaz
